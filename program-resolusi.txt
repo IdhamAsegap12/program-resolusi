@@ -2,3 +2,4 @@ Program Resolusi
 - Membuat sistem aplikasi secara konsisten
 - Membuat sosial media untuk pemasaran
 - Membuat game dan menghasilkan uang
+- MembuatStartup
